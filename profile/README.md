@@ -20,6 +20,14 @@ Every local USE-IT initiative is part of the international not-for-profit organi
 
 ## Our History 📜
 
-The name USE-IT originated in 1971 in Copenhagen, but the network of city maps began in 2005 with the first map of Ghent, Belgium. Since then, the number of cities in the network has grown, reaching our 100th city in 2023.
+The name USE-IT originated in 1971 in Copenhagen, but the network of city maps began in 2005 with the first map of Ghent, Belgium. Since then, the number of cities in the network has grown, reaching our 100th city in 2023
+
+## Connect With Us
+
+Follow us on social media to stay updated:
+- [Facebook](https://www.facebook.com/useit)
+- [Instagram](https://www.instagram.com/useitmaps)
+- [Discord](https://discord.gg/TsaaxXDqep)
+- [YouTube](https://www.youtube.com/@DIG-ITcommunicationteam)
 
 Explore Europe with us, the USE-IT way! 🚀
