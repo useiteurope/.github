@@ -2,6 +2,8 @@
 
 USE-IT is a collaborative European network of local initiatives dedicated to publishing free city maps for young travellers. The information provided is straightforward, created by locals, non-commercial, and up-to-date.
 
+![Explore Europe with USE-IT maps](https://digit.use-it.travel/content/images/size/w2000/2024/08/294955924_5812314832146987_3738772243589164144_n-1.jpg)
+
 ## What We Do 🗺️
 
 Each map highlights around a hundred locations in the city, including museums, bars, affordable restaurants, clubs, and places to connect with locals rather than other tourists. The project is entirely non-commercial, with no fees for inclusion. Maps are distributed for free in hostels, tourist information centres, youth information centres, welcome packages for exchange students, and other venues.
