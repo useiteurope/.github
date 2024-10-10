@@ -22,12 +22,32 @@ Every local USE-IT initiative is part of the international not-for-profit organi
 
 The name USE-IT originated in 1971 in Copenhagen, but the network of city maps began in 2005 with the first map of Ghent, Belgium. Since then, the number of cities in the network has grown, reaching our 100th city in 2023
 
+## DIG-IT 🖥️
+Co-funded by the European Union, we launched the [DIG-IT project](https://digit.use-it.travel) in 2023 to enhance the digital skills of youth leaders in the field of sustainable urban tourism. It aims to foster experimentation and harness the creativity of youth leaders to build a community of conscientious urban tourists. This will enable more youth initiatives to share local tourist information in a contemporary way using digital media, thereby reaching a wider audience of young urban travellers (you :)). 
+
+The Netherlands, Poland, Czech Republic and France are leading this 3-year process of learning, testing, and implementing mapgic online, created by and for young workers and map makers. This digitisation project will result in the launch of a new digital presence (website + app) for USE-IT by 2025.
+
+**The project activities are divided into three groups:**
+1. Teaching and Knowledge Sharing: This involves web development and digital maps, delivered through online seminars, an online platform, and a guidebook.
+2. Testing and Experimentation: Activities include hackathons, case studies, brainstorming sessions, lab testing, and focus groups.
+3. Development: Based on the results of the previous activities, this phase involves creating a new platform for young travellers and the community of youth leaders engaged in sustainable tourism. It includes design, copywriting, beta and alpha web development, and a conference.
+
+Thanks to DIG-IT, the community of youth leaders who create innovative alternative tourist paper maps will become more proficient in IT, enabling them to share their creative content online. Young travellers will have access to a platform where they can find digital maps and content, providing them with authentic tourist information from young locals in various European cities.
+
+Youth leaders will also have a powerful tool to persuade official funders to support their initiatives. You can [explore our catalogue](https://www.use-it.travel/digit/), which includes comprehensive knowledge about digital mapping tools!
+
+![Co-funded by the European Union](https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_co_funded_en.jpg)
+Co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them. USE-IT Europe © 2024.
+
 ## Connect With Us 💜
 
-Follow us on social media to stay updated:
+Follow us on social media, join our community:
 - [Facebook](https://www.facebook.com/useit)
 - [Instagram](https://www.instagram.com/useitmaps)
 - [Discord](https://discord.gg/TsaaxXDqep)
 - [YouTube](https://www.youtube.com/@DIG-ITcommunicationteam)
 
-Explore Europe with us, the USE-IT way! 🚀
+Ready to act like a local while travelling?
+Eager to start a USE-IT map project for our city? 
+[www.use-it.travel](https://www.use-it.travel)
+From all over Europe with mappiness 🚀 
