@@ -36,7 +36,7 @@ Thanks to DIG-IT, the community of youth leaders who create innovative alternati
 
 Youth leaders will also have a powerful tool to persuade official funders to support their initiatives. You can [explore our catalogue](https://www.use-it.travel/digit/), which includes comprehensive knowledge about digital mapping tools!
 
-![Co-funded by the European Union](https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_co_funded_en.jpg)
+![Co-funded by the European Union](https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_co_funded_en.jpg =x250)
 Co-funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them. USE-IT Europe © 2024.
 
 ## Connect With Us 💜
